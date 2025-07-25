@@ -2,6 +2,12 @@
 
 Bem-vindo(a) ao repositório do **Desafio Abstraindo Um Bootcamp**, projeto desenvolvido em Java para exercitar conceitos de orientação a objetos, abstração e polimorfismo. Este desafio faz parte do meu percurso de evolução como desenvolvedor e foi pensado para demonstrar habilidades técnicas e criatividade na solução de problemas!
 
+## Diagrama de classes
+
+<div>
+  <img src="https://github.com/elissandroa/DesafioAbstraindoUmBootCamp/blob/main/Bootcamp.png" width="700px" />
+</div>
+
 ## 🔥 Sobre o Projeto
 
 O objetivo deste projeto é simular a estrutura de um Bootcamp — plataforma de educação continuada — utilizando os principais pilares da Programação Orientada a Objetos (POO):
