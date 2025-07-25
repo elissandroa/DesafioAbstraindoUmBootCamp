@@ -1,6 +1,6 @@
 # 🚀 Desafio: Abstraindo um Bootcamp em Java
 
-Bem-vindo(a) ao repositório do **Desafio Abstraindo Um Bootcamp**, projeto desenvolvido em Java para exercitar conceitos de orientação a objetos, abstração e polimorfismo. Este desafio faz parte do meu percurso de evolução como desenvolvedor(a) e foi pensado para demonstrar habilidades técnicas e criatividade na solução de problemas!
+Bem-vindo(a) ao repositório do **Desafio Abstraindo Um Bootcamp**, projeto desenvolvido em Java para exercitar conceitos de orientação a objetos, abstração e polimorfismo. Este desafio faz parte do meu percurso de evolução como desenvolvedor e foi pensado para demonstrar habilidades técnicas e criatividade na solução de problemas!
 
 ## 🔥 Sobre o Projeto
 
