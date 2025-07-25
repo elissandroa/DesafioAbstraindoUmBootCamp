@@ -25,6 +25,17 @@ public class Bootcamp {
 	public void addConteudo(Conteudo conteudo) {
 		this.conteudos.add(conteudo);
 	}
+	
+	public void listarConteudos() {
+		if (conteudos.isEmpty()) {
+			System.out.println("Nenhum conteúdo cadastrado.");
+		} else {
+			System.out.println("Conteúdos do Bootcamp " + nome + ":");
+			for (Conteudo conteudo : conteudos) {
+				System.out.println("- " + conteudo.getTitulo());
+			}
+		}
+	}
 
 	public LocalDateTime getDataInicial() {
 		return dataInicial;
@@ -65,6 +76,10 @@ public class Bootcamp {
 				&& Objects.equals(nome, other.nome);
 	}
 	
-	
+	@Override
+	public String toString() {
+		return "Bootcamp [dataInicial=" + dataInicial + ", dataFinal=" + dataFinal + ", nome=" + nome + ", descricao="
+				+ descricao + ", conteudos=" + conteudos + "]";
+	}
 
 }

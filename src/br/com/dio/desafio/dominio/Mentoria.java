@@ -19,8 +19,7 @@ public class Mentoria extends Conteudo {
 
 	@Override
 	public double calcularTotalXp() {
-		// TODO Auto-generated method stub
-		return 0;
+		return XP_PADRAO + 20d;
 	}
 	
 	@Override	
